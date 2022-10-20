@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0f34402b-611c-4928-b559-eba16fc7ce3b" name="root@zzy.monster:22 key">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="zzy.monster" port="22" sshConfigId="5431d8e8-7a0c-4d34-970c-3b6077ab903d" sshConfig="root@zzy.monster:22 key" keyPair="true" />
+      </webServer>
+    </option>
+  </component>
+</project>
