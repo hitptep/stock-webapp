@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75c2710f-50b1-494d-831d-0d6ffacf8852" name="变更" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/docs/_navbar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="75c2710f-50b1-494d-831d-0d6ffacf8852" name="变更" comment="Merge remote-tracking branch 'origin/main'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +66,7 @@
       <workItem from="1666250141291" duration="87000" />
       <workItem from="1666250257340" duration="396000" />
       <workItem from="1666257418281" duration="2063000" />
-      <workItem from="1666271010683" duration="258000" />
+      <workItem from="1666271010683" duration="579000" />
     </task>
     <task id="LOCAL-00001" summary="Create improvements.txt">
       <created>1666019889793</created>
@@ -136,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666259492039</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1666271276700</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666271276700</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
